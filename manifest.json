@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "ColorPicks",
+    "version": "1.0",
+    "description": "Pick any color from a browser webpage",
+    "author": "Aiman Shafi ",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "ColorPicks - Pick any Color!",
+        "default_icon": {
+            "128": "./images/icons.jpeg"
+        }
+    },
+    "icons": {
+        "16": "images/icons.jpeg",
+        "32": "images/icons.jpeg",
+        "48": "images/icons.jpeg",
+        "128": "./images/icons.jpeg"
+    }
+}
